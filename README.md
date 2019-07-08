@@ -14,21 +14,21 @@
     <tbody>
         <tr style="border: 0px;">
             <td style="border: 0px;">
-                <img src="imgs/twitter_small.png" style="display: inline-block;" /> 
+                <img src="https://raw.githubusercontent.com/leriomaggio/deep-learning-keras-tensorflow/master/imgs/twitter_small.png" style="display: inline-block;" /> 
                 <a href="http://twitter.com/leriomaggio" target="_blank">@leriomaggio</a>
             </td>
             <td style="border: 0px;">
-                <img src="imgs/gplus_small.png" style="display: inline-block;" /> 
+                <img src="https://raw.githubusercontent.com/leriomaggio/deep-learning-keras-tensorflow/master/imgs/gplus_small.png" style="display: inline-block;" /> 
                 <a href="http://plus.google.com/+ValerioMaggio" target="_blank">+ValerioMaggio</a>
             </td>
         </tr>
         <tr style="border: 0px;">
             <td style="border: 0px;">
-                <img src="imgs/linkedin_small.png" style="display: inline-block;" /> 
+                <img src="https://raw.githubusercontent.com/leriomaggio/deep-learning-keras-tensorflow/master/imgs/linkedin_small.png" style="display: inline-block;" /> 
                 <a href="it.linkedin.com/in/valeriomaggio" target="_blank">valeriomaggio</a>
             </td>
             <td style="border: 0px;">
-                <img src="imgs/gmail_small.png" style="display: inline-block;" /> 
+                <img src="https://raw.githubusercontent.com/leriomaggio/deep-learning-keras-tensorflow/master/imgs/gmail_small.png" style="display: inline-block;" /> 
                 <a href="mailto:vmaggio@fbk.eu">vmaggio_at_fbk_dot_eu</a>
             </td>
        </tr>
